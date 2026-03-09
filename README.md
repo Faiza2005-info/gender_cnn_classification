@@ -46,8 +46,8 @@ All input images were resized to 150x150 pixels before being fed into the model.
 1. Clone the repository
 bash
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Faiza2005-info/gender_cnn_classification.git
+cd gender_cnn_classification
 ```
 
 2. Install dependencies
