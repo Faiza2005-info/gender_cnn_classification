@@ -12,13 +12,15 @@ allows good performance even with limited data.
 ## Dataset
 Source : [Gender Detection & Classification](https://www.kaggle.com/datasets/trainingdatapro/gender-detection-and-classification-image-dataset)
 Structure:
-Gender/
-  ├── train/
-  │   ├── men/      # 110 images
-  │   └── women/    # 110 images
-  └── validation/
-      ├── men/      # 40 images
-      └── women/    # 40 images
+
+MyDrive/
+└── Gender/
+    ├── train/
+    │   ├── men/
+    │   └── women/
+    └── validation/
+        ├── men/
+        └── women/
 
 Total : 300 images (220 train / 80 validation)
 Classes : Balanced 50% male / 50% female
